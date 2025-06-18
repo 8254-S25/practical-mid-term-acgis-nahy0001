@@ -1,0 +1,27 @@
+total 96
+4 drwx------ 15 pi   pi   4096 Jun 18 16:33 .
+4 drwxr-xr-x  4 root root 4096 Jun 18 16:27 ..
+4 -rw-r--r--  1 pi   pi    220 May 13 01:06 .bash_logout
+4 -rw-r--r--  1 pi   pi   3523 May 13 01:06 .bashrc
+4 drwxr-xr-x  2 pi   pi   4096 May 13 01:10 Bookshelf
+4 drwx------  5 pi   pi   4096 May 13 01:18 .cache
+4 drwxr-xr-x  4 pi   pi   4096 May 13 01:18 .config
+4 drwxr-xr-x  2 pi   pi   4096 May 13 01:17 Desktop
+4 drwxr-xr-x  2 pi   pi   4096 May 13 01:18 Documents
+4 drwxr-xr-x  2 pi   pi   4096 May 13 01:18 Downloads
+4 drwxr-xr-x  4 pi   pi   4096 May 13 01:17 .local
+4 -rw-r--r--  1 pi   pi      9 Jun 18 16:22 mt.txt
+4 drwxr-xr-x  2 pi   pi   4096 May 13 01:18 Music
+4 drwxr-xr-x  2 pi   pi   4096 May 13 01:18 Pictures
+4 -rwx--x---  1 pi   pi    464 Jun 18 15:56 pr1.txt
+4 -rw-r--r--  1 pi   pi    614 Jun 18 16:09 pr2.txt
+0 -rw-r--r--  1 pi   pi      0 Jun 18 16:33 pr3.txt
+4 -rw-r--r--  1 pi   pi    807 May 13 01:06 .profile
+4 -rw-r--r--  1 pi   pi    314 Jun 18 16:22 pr.txt
+4 drwxr-xr-x  2 pi   pi   4096 May 13 01:18 Public
+4 drwx------  2 pi   pi   4096 Jun 18 15:54 .ssh
+0 -rw-r--r--  1 pi   pi      0 May 13 01:18 .sudo_as_admin_successful
+4 drwxr-xr-x  2 pi   pi   4096 May 13 01:18 Templates
+4 drwxr-xr-x  2 pi   pi   4096 May 13 01:18 Videos
+4 -rw-------  1 pi   pi     51 May 13 01:18 .Xauthority
+4 -rw-------  1 pi   pi   4091 May 13 01:18 .xsession-errors

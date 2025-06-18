@@ -1,0 +1,16 @@
+total 56
+drwxr-xr-x 2 pi pi 4096 May 13 01:10 Bookshelf
+drwxr-xr-x 2 pi pi 4096 May 13 01:17 Desktop
+drwxr-xr-x 2 pi pi 4096 May 13 01:18 Documents
+drwxr-xr-x 2 pi pi 4096 May 13 01:18 Downloads
+-rw-r--r-- 1 pi pi    9 Jun 18 16:22 mt.txt
+drwxr-xr-x 2 pi pi 4096 May 13 01:18 Music
+drwxr-xr-x 2 pi pi 4096 May 13 01:18 Pictures
+-rwx--x--- 1 pi pi  464 Jun 18 15:56 pr1.txt
+-rw-r--r-- 1 pi pi  614 Jun 18 16:09 pr2.txt
+-rw-r--r-- 1 pi pi 1385 Jun 18 16:33 pr3.txt
+-rw-r--r-- 1 pi pi    0 Jun 18 17:15 pr4.txt
+-rw-r--r-- 1 pi pi  314 Jun 18 16:22 pr.txt
+drwxr-xr-x 2 pi pi 4096 May 13 01:18 Public
+drwxr-xr-x 2 pi pi 4096 May 13 01:18 Templates
+drwxr-xr-x 2 pi pi 4096 May 13 01:18 Videos
